@@ -1,5 +1,5 @@
-# https://l1nsn0w520.github.io/repo/
-这是我的个人源
-如果你想创建一个这样的免费源,
-联系qq1909901779
-源已适配sileo跟cydia
+# https://pwsn0w.github.io/repo/
+-----
+## 备注
+- 这是我的越狱源
+- 源已适配sileo跟cydia
