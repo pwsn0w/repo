@@ -38,6 +38,7 @@ body{
     background-color: #ffffff;
     color: #454545;
     font-family: "Poppins";
+    max-width: 500px;
 }
 .icon{
     border-radius: 50%;
