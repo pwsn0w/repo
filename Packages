@@ -10,7 +10,7 @@ Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, co
 Installed-Size: 1024
 Author: Ryan Nair
 Maintainer: Ryan Nair
-Description: iPhone 12 gestures and more for iOS 14
+Description: 适用于IOS14+的X手势插件
 Filename： ./debs/com.ryannair05.little12_1.0.0_iphoneos-arm.deb
 Size: 386036
 MD5sum: fb6da83453bcf26f83a90e77f6c52a9d
@@ -27,7 +27,7 @@ Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, co
 Installed-Size: 912
 Author: Ryan Nair
 Maintainer: Ryan Nair
-Description: iPhone 11 gestures and more for iOS 13
+Description: 适用于IOS13的X手势插件
 Filename： ./debs/com.ryannair05.little11_1.5.1_iphoneos-arm.deb
 Size: 340596
 MD5sum: c33ce9a1c9d7c0c986725012fe42042f
@@ -37,7 +37,7 @@ Name: Filza File Manager
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
 Architecture: iphoneos-arm
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Description: Filza 文件管理器
 Maintainer: TIGI Software
 Author: TIGI Software
 Section: Utilities
@@ -80,7 +80,7 @@ SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 Depends: apt (>= 2.1.10-1), coreutils (>=8.32-4), dpkg (>= 1.19.2-4), procursus-keyring, zsh, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
 Conflicts: cydia-gui (<<99.0)
 Pre-Depends: debianutils, dpkg (>= 1.18)
-Description: A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)odysseyra1n的最新版sileo会闪退，可更新这个版本解决
+Description: A proper APT client for iOS 11 and higher.odysseyra1n的最新版sileo会闪退，可更新这个版本解决
 Name: Sileo
 Author: Sileo Team <getsileoapp@gmail.com>
 Tag: cydia::essential
